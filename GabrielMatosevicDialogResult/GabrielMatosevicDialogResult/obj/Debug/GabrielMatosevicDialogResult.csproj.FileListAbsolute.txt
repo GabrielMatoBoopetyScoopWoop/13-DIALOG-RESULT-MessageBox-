@@ -1,0 +1,9 @@
+C:\Users\Učenik 4\source\repos\GabrielMatosevicDialogResult\GabrielMatosevicDialogResult\bin\Debug\GabrielMatosevicDialogResult.exe.config
+C:\Users\Učenik 4\source\repos\GabrielMatosevicDialogResult\GabrielMatosevicDialogResult\bin\Debug\GabrielMatosevicDialogResult.exe
+C:\Users\Učenik 4\source\repos\GabrielMatosevicDialogResult\GabrielMatosevicDialogResult\bin\Debug\GabrielMatosevicDialogResult.pdb
+C:\Users\Učenik 4\source\repos\GabrielMatosevicDialogResult\GabrielMatosevicDialogResult\obj\Debug\GabrielMatosevicDialogResult.csprojAssemblyReference.cache
+C:\Users\Učenik 4\source\repos\GabrielMatosevicDialogResult\GabrielMatosevicDialogResult\obj\Debug\GabrielMatosevicDialogResult.Form1.resources
+C:\Users\Učenik 4\source\repos\GabrielMatosevicDialogResult\GabrielMatosevicDialogResult\obj\Debug\GabrielMatosevicDialogResult.Properties.Resources.resources
+C:\Users\Učenik 4\source\repos\GabrielMatosevicDialogResult\GabrielMatosevicDialogResult\obj\Debug\GabrielMatosevicDialogResult.csproj.GenerateResource.cache
+C:\Users\Učenik 4\source\repos\GabrielMatosevicDialogResult\GabrielMatosevicDialogResult\obj\Debug\GabrielMatosevicDialogResult.exe
+C:\Users\Učenik 4\source\repos\GabrielMatosevicDialogResult\GabrielMatosevicDialogResult\obj\Debug\GabrielMatosevicDialogResult.pdb
